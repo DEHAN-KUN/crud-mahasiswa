@@ -18,6 +18,7 @@ class Student extends Model
         'nim',
         'nama',
         'email',
-        'prodi'
+        'prodi',
+        'foto'
     ];
 }
